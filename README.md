@@ -1,2 +1,3 @@
 # vex
-Voxel value extractor
+Voxel value extractor.
+Runs in Matlab.

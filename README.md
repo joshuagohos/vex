@@ -1,3 +1,3 @@
 # vex
 Voxel value extractor.
-Runs in Matlab.
+Runs in Matlab. Requires SPM and Marsbar installed with path set.
